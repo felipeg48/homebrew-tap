@@ -1,7 +1,7 @@
 # Written by simple-ideas' packaging/homebrew.sh on every release; do not edit.
 cask "si-studio" do
-  version "4.4.4"
-  sha256 "82a1cd7cd7a12f6dfba05316753a9d9078cd439d192818f4ef2bf74bff320d62"
+  version "4.5.0"
+  sha256 "121c0a7e8af0ee859d75ae58f6c51d69b5db7b5ee371674ac422802c1e796269"
 
   url "https://github.com/felipeg48/simple-ideas/releases/download/v#{version}/si-Studio-#{version}-macos.zip"
   name "si Studio"

@@ -2,27 +2,27 @@
 class Si < Formula
   desc "Markdown into animated, fluid HTML slide decks, articles, guides and mind maps"
   homepage "https://github.com/felipeg48/simple-ideas"
-  version "4.4.4"
+  version "4.5.0"
   license "Apache-2.0"
 
   on_macos do
     on_arm do
-      url "https://github.com/felipeg48/simple-ideas/releases/download/v4.4.4/si_v4.4.4_darwin_arm64"
-      sha256 "0819a76178019a5f8f1a8169655b445ea80402ed3b56fa05e75f5bd839a742c9"
+      url "https://github.com/felipeg48/simple-ideas/releases/download/v4.5.0/si_v4.5.0_darwin_arm64"
+      sha256 "c49bfd5dabc0eced09426156dc0b5acbbc5e24a2d333702f237341ba5b054956"
     end
     on_intel do
-      url "https://github.com/felipeg48/simple-ideas/releases/download/v4.4.4/si_v4.4.4_darwin_amd64"
-      sha256 "fbf3707dd9d5511682d167ea3423e163b85e34ce807b68db480fbc5be6386af1"
+      url "https://github.com/felipeg48/simple-ideas/releases/download/v4.5.0/si_v4.5.0_darwin_amd64"
+      sha256 "5e0e7413899f19f15fefddb6ff6024c910d93f6f3001d1674c92fc75bb238b3e"
     end
   end
   on_linux do
     on_arm do
-      url "https://github.com/felipeg48/simple-ideas/releases/download/v4.4.4/si_v4.4.4_linux_arm64"
-      sha256 "3df7bc346b5b55d82d986187896462f6d8d7c4a8d8effe8ef841d62097c08c08"
+      url "https://github.com/felipeg48/simple-ideas/releases/download/v4.5.0/si_v4.5.0_linux_arm64"
+      sha256 "d92e5d668a31cdd37b911279fa80e4f47aeda871d64e813536d6daa941b1e43d"
     end
     on_intel do
-      url "https://github.com/felipeg48/simple-ideas/releases/download/v4.4.4/si_v4.4.4_linux_amd64"
-      sha256 "391d54bd05aa0993c96106849672aaad9dbb6af508e1a462eb35f107a56ad054"
+      url "https://github.com/felipeg48/simple-ideas/releases/download/v4.5.0/si_v4.5.0_linux_amd64"
+      sha256 "6abe4a2a7eeee380b66f49cbca20353ef7fbdd8e358042ab394fe4caa724ea9c"
     end
   end
 
